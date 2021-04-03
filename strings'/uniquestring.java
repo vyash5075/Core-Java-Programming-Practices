@@ -46,3 +46,63 @@ public class uniquestring {
         unique(s);          
     }
 }
+
+
+----------------------------------------------------------------------------------------
+//way2 by hashmap
+
+
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package strings;
+import java.util.*;
+/**
+ *
+ * @author yash verma
+ */
+public class ques26 {
+    public static void characters(String s)
+    {
+        char arr[]=s.toCharArray();
+        Map<Character,Integer>hm=new HashMap<>();
+        for(char ch:arr)
+        {
+            if(!hm.containsKey(ch))
+            {
+                hm.put(ch,1);
+            }
+            else{
+                hm.put(ch,hm.get(ch)+1);
+            }
+        }
+        System.out.println("characters present in the given string are");
+        Set<Map.Entry<Character,Integer>>es=hm.entrySet();
+        for(Map.Entry<Character,Integer>p:es)
+        {
+            if(p.getValue()>=1)
+            {
+                System.out.println(p.getKey());
+            }
+        }
+        System.out.println("way2");
+        for(Character x: hm.keySet())
+        {
+            if(hm.get(x)>=1)
+            {
+                System.out.println(x);
+            }       
+        }
+    }
+    public static void main(String args[])
+    {
+         Scanner sc=new Scanner(System.in);
+        System.out.println("enter the string");
+        String str=sc.next();
+         characters(str);
+    }
+    
+}
+
