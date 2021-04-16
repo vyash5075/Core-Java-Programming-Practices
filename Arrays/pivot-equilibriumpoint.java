@@ -1,0 +1,25 @@
+class Solution {
+    public int pivotIndex(int[] arr) {
+      int i, j;
+        int leftsum, rightsum;
+ int n=arr.length;
+        
+        for (i = 0; i < n; ++i) {
+ 
+            leftsum = 0; 
+            for (j = 0; j < i; j++)
+                leftsum += arr[j];
+             rightsum = 0;
+            for (j = i + 1; j < n; j++)
+                rightsum += arr[j];
+ 
+         
+            if (leftsum == rightsum)
+                return i;
+        }
+ 
+     
+        return -1;
+ 
+    }
+}
