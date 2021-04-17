@@ -10,9 +10,7 @@
            System.out.print(paths);
         }
         //make global array
-        static String codes[]={".;","abc","def","ghi","jkl","mno","pqrs","tu","vwx","yz"};
-                
-        //678
+      
         public static ArrayList<String>getStairpaths(int n){
                 
             if(n==0){
