@@ -13,7 +13,7 @@ public class arraylist_array2 {
         arr=al.toArray(arr);
         for(Integer g:arr)
         {
-            System.out.println(g);
+            System.out.println(g+"");
         }
 }
 }
