@@ -2,6 +2,7 @@ public class array_arraylist2{
      public static void main(String args[])
     {
         int j=0;
+
         Scanner sc=new Scanner(System.in);
         System.out.println("enter the size of array");
         int n=sc.nextInt();
