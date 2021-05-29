@@ -7,7 +7,7 @@ public class String_array_dup {
         int n=sc.nextInt();
         String arr[]=new String[n];
         System.out.println("enter strings");
-        for(int i=0;i<n;i++)
+        for(int i=0;i<n ;i++)
         {
             arr[i]=sc.next();
         }
