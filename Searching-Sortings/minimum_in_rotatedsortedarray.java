@@ -13,15 +13,20 @@ public class gfg{
         
         int lo=0;
         int high=arr.length-1;
-        
+        if(arr[lo]<=arr[high]){
+            return arr[lo];
+        }
         while(lo<=high){
             int mid=(lo+high)/2;
-            if(arr[mid]<arr[mid-1]){
-                return arr[mid];
-            }
-            else if(arr[mid]>arr[mid+1]){
+            
+              if(arr[mid]>arr[mid+1]){
              return arr[mid+1];   
             }
+            
+            else if(arr[mid]<arr[mid-1]){
+                return arr[mid];
+            }
+           
             
             
             else if(arr[lo]<=arr[mid]){
@@ -30,7 +35,8 @@ public class gfg{
             else if(arr[mid]<=arr[high]){
                 high=mid-1;
             }
-        }    
+        }   
         return -1;
+        
     }
 }
