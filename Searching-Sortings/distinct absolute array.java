@@ -44,7 +44,7 @@ public class abc{
              next= arr[j];
              j--;
         }
-         if(Math.abs(arr[i])>Math.abs(arr[j])){
+        else if(Math.abs(arr[i])>Math.abs(arr[j])){
            if(prev!= arr[i]){
                 count++;
                 
