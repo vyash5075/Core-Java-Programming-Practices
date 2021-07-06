@@ -1,3 +1,5 @@
+//source:https://www.geeksforgeeks.org/fractional-knapsack-problem/
+
 import java.util.*;
 public class gfg{
     public static void main(String args[]){
