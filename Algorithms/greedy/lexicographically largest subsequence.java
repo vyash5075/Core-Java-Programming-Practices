@@ -1,6 +1,11 @@
 
 //https://github.com/vyash5075/Core-Java-Programming-Practices/new/master/Algorithms/greedy
+/*
+Input : S = "banana", K = 2.
+Output : nn
+Possible subsequence where each character exists at least 2 times are:
 
+*/
 import java.util.*;
 public class abc{
     public static void main(String args[]){
