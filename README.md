@@ -15,6 +15,6 @@ _If you like my content, please leave me a star._ &#9733;
 ## Recursion
 |  #  |      Problem     |   Solutions   | Source  | Difficulty  |  Tags         
 |-----|----------------|---------------|--------|-------------|-------------
-
+|1    |[Print in decreasing manner](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printDecreasingIncreasing.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printDecreasingIncreasing.java) |Pepcoding|Easy|Backtracking
 
 
