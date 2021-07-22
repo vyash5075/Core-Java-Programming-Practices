@@ -1,4 +1,8 @@
-    package strings;
+/*
+input : x=5, n=3
+output: 125
+*/    
+package strings;
     import java.util.*;
     public class power {
 
