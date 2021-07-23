@@ -20,5 +20,17 @@ _If you like my content, please leave me a star._ &#9733;
 |3    |[Print in Decreasing  Increasing  manner](https://github.com/vyash5075/Core-Java-Programming-Practices/edit/master/recursion/printDecreasingIncreasing.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/edit/master/recursion/printDecreasingIncreasing.java) |Pepcoding|Easy|Lv.1|Backtracking
 |4    |[Factorial of a  number](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/factorial.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/factorial.java) |Pepcoding|Easy|Lv.1|Backtracking
 |5    |[Power Linear](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/linearpower.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/linearpower.java) |Pepcoding|Easy|Lv.1|Backtracking
+|6   |[ZigZag Print](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/ziggzgprint.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/ziggzgprint.java) |Pepcoding|Medium|Lv.2|Backtracking
+|7   |[Tower Of Hanoi](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/tower_of_hanoi.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/tower_of_hanoi.java) |Pepcoding|Medium|Lv.2|Backtracking
+|8  |[Display Array](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/display%20array.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/display%20array.java) |Pepcoding|Easy|Lv.1|Backtracking
 
 
+
+
+
+
+
+## Miscellaneous
+|  #  |      Problem     |   Solutions   | Source  | Difficulty  |Level |  Tags         
+|-----|----------------|---------------|--------|-------------|-|------------
+|1    |[Numbair Number Generator](https://github.com/vyash5075/Data-Structure-Algorithms/blob/master/miscellaneous/Numbair%20generator.java)|[Solution](https://github.com/vyash5075/Data-Structure-Algorithms/blob/master/miscellaneous/Numbair%20generator.java) |Wipro|Medium|Lv.2|Math
