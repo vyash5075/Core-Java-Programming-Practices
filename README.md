@@ -23,9 +23,9 @@ _If you like my content, please leave me a star._ &#9733;
 |6   |[ZigZag Print](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/ziggzgprint.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/ziggzgprint.java) |Pepcoding|Medium|Lv.2|Backtracking
 |7   |[Tower Of Hanoi](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/tower_of_hanoi.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/tower_of_hanoi.java) |Pepcoding|Medium|Lv.2|Backtracking
 |8  |[Display Array](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/display%20array.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/display%20array.java) |Pepcoding|Easy|Lv.1|Backtracking
-
-
-
+|9  |[Maximum in Array](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/max_in_array.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/max_in_array.java) |Pepcoding|Easy|Lv.1|Backtracking
+|10 |[First occurence](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/firstoccurenceofelement.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/firstoccurenceofelement.java) |Pepcoding|Easy|Lv.1|Backtracking
+|11 |[Last occurence](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/lastoccurence.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/lastoccurence.java) |Pepcoding|Easy|Lv.1|Backtracking
 
 
 
