@@ -1,4 +1,4 @@
-# [Programming Practices](https://leetcode.com/problemset/algorithms/) [![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](LICENSE.md) [![Build Status](https://travis-ci.org/fishercoder1534/Leetcode.svg?branch=master)](https://travis-ci.org/fishercoder1534/Leetcode) ![Language](https://img.shields.io/badge/language-Java%20%2F%20MySQL%20%2F%20Bash-blue.svg) 
+# [Programming Practices](https://leetcode.com/problemset/algorithms/) [![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](LICENSE.md) [![Build Status](https://travis-ci.org/fishercoder1534/Leetcode.svg?branch=master)](https://travis-ci.org/fishercoder1534/Leetcode) ![Language](https://img.shields.io/badge/language-Java%20%2F%20MySQL%20/Javascript%20%2F%20Bash-blue.svg) 
 
 _If you like my content, please leave me a star._ &#9733;
 
@@ -26,8 +26,10 @@ _If you like my content, please leave me a star._ &#9733;
 |9  |[Maximum in Array](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/max_in_array.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/max_in_array.java) |Pepcoding|Easy|Lv.1|Backtracking
 |10 |[First occurence](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/firstoccurenceofelement.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/firstoccurenceofelement.java) |Pepcoding|Easy|Lv.1|Backtracking
 |11 |[Last occurence](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/lastoccurence.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/lastoccurence.java) |Pepcoding|Easy|Lv.1|Backtracking
-
-
+|12 |[All Occurences](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/allindices.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/allindices.java) |Pepcoding|Easy|Lv.1|Recursion,Array
+|13 |[Get all Subsequence of String](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/get%20subsequence.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/get%20subsequence.java) |Pepcoding|Medium|Lv.2|Recursion,String
+|14 |[Nokia Keypad Combination](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/phonekeyscombination.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/phonekeyscombination.java) |Pepcoding|Medium|Lv.2|Recursion
+|15 |[Get StairPath](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/getStairpaths.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/getStairpaths.java) |Pepcoding|Hard|Lv.3|Recursion
 
 
 ## Miscellaneous
