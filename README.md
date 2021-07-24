@@ -30,6 +30,8 @@ _If you like my content, please leave me a star._ &#9733;
 |13 |[Get all Subsequence of String](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/get%20subsequence.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/get%20subsequence.java) |Pepcoding|Medium|Lv.2|Recursion,String
 |14 |[Nokia Keypad Combination](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/phonekeyscombination.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/phonekeyscombination.java) |Pepcoding|Medium|Lv.2|Recursion
 |15 |[Get StairPath](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/getStairpaths.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/getStairpaths.java) |Pepcoding|Hard|Lv.3|Recursion
+|16 |[Get mazepath](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/getmazepaths.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/getmazepaths.java) |Pepcoding|Hard|Lv.3|Recursion
+|17 |[Get mazepathwithjumps](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/getmazepathswithjumps.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/getmazepathswithjumps.java) |Pepcoding|Hard|Lv.3|Recursion
 
 
 ## Miscellaneous
