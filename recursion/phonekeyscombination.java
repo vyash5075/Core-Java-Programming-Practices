@@ -25,7 +25,7 @@
         ArrayList<String>rres=  getkpc(ros);
         ArrayList<String>mres=new ArrayList<>();
         
-        String codesforch=codes[ch];
+        String codesforch=codes[ch-'0'];
         for(int i=0;i<codesforch.length();i++){
             char chcode=codesforch.charAt(i);
             for(String  rstr:rres){
