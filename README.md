@@ -32,6 +32,7 @@ _If you like my content, please leave me a star._ &#9733;
 |15 |[Get StairPath](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/getStairpaths.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/getStairpaths.java) |Pepcoding|Hard|Lv.3|Recursion
 |16 |[Get mazepath](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/getmazepaths.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/getmazepaths.java) |Pepcoding|Hard|Lv.3|Recursion
 |17 |[Get mazepathwithjumps](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/getmazepathswithjumps.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/getmazepathswithjumps.java) |Pepcoding|Hard|Lv.3|Recursion
+|18 |[Print Subsequence of String](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printsubsequence.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printsubsequence.java) |Pepcoding|Medium|Lv.2|Recursion,String
 
 
 ## Miscellaneous
