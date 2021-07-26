@@ -36,6 +36,10 @@ _If you like my content, please leave me a star._ &#9733;
 |19 |[Print Nokia Keypad Combination](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printkpc.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printkpc.java) |Pepcoding|Medium|Lv.2|Recursion,String
 |20 |[Print Stairs Path](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printStairPaths.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printStairPaths.java) |Pepcoding|Medium|Lv.2|Recursion
 |21 |[Print Maze Path](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printmazePaths.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printmazePaths.java) |Pepcoding|Medium|Lv.2|Recursion
+|22 |[Print Maze Path with Jumps](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printmazePathswithjumps.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printmazePathswithjumps.java) |Pepcoding|Medium|Lv.2|Recursion,Array
+|23 |[Print Permutations](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printpermutations.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printpermutations.java) |Pepcoding|Medium|Lv.2|Recursion,Array
+
+
 
 ## Miscellaneous
 |  #  |      Problem     |   Solutions   | Source  | Difficulty  |Level |  Tags         
