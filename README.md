@@ -1,8 +1,10 @@
 # [Programming Practices](https://leetcode.com/problemset/algorithms/) [![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](LICENSE.md) [![Build Status](https://travis-ci.org/fishercoder1534/Leetcode.svg?branch=master)](https://travis-ci.org/fishercoder1534/Leetcode) ![Language](https://img.shields.io/badge/language-Java%20%2F%20Data_Structures%2F-blue.svg) 
 
-_If you like my content, please leave me a star._ &#9733;
+If you like my content, please leave me a star. ❤️;
 
-
+```diff
+- yash
+```
 <!-- ## Algorithms
 
 |  #  |      Title     |   Solutions   | Video  | Difficulty  |Level| Tag1           
@@ -37,7 +39,12 @@ _If you like my content, please leave me a star._ &#9733;
 |20 |[Print Stairs Path](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printStairPaths.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printStairPaths.java) |Pepcoding|Medium|Lv.2|Recursion
 |21 |[Print Maze Path](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printmazePaths.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printmazePaths.java) |Pepcoding|Medium|Lv.2|Recursion
 |22 |[Print Maze Path with Jumps](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printmazePathswithjumps.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printmazePathswithjumps.java) |Pepcoding|Medium|Lv.2|Recursion,Array
-|23 |[Print Permutations](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printpermutations.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printpermutations.java) |Pepcoding|Medium|Lv.2|Recursion,Array
+|23 |[Print Permutations](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printpermutations.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printpermutations.java) |Pepcoding|Medium|Lv.2|Recursion,String
+|24 |[Print Encodings](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printencodings.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printencodings.java) |Pepcoding|Hard|Lv.3|Recursion,String
+|25 |[Flood Fill](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/floodfill.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/floodfill.java) |Pepcoding|Hard|Lv.3|Recursion,Array,Graph, BFS
+|26 |[Target Sum Subsets](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/targetsumsubsets.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/targetsumsubsets.java) |Pepcoding|Medium|Lv.2|Recursion,Array 
+|27 |[Print N Queens](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printNQueens.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printNQueens.java) |Pepcoding|Hard|Lv.3|Recursion,Array 
+
 
 
 
