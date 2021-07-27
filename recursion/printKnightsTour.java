@@ -1,13 +1,9 @@
     package strings;
-   //3
-  //[111, 12, 21, 3] 
     import java.util.*;
      class newbie {
         public static void main(String args[]){
            Scanner sc=new Scanner(System.in);
           int n=sc.nextInt();
-        
-          
           System.out.println("enter the coordinates of starting position");
           int r=sc.nextInt();
           int c=sc.nextInt();
@@ -52,21 +48,4 @@
                 }
             }
         }
-        public static boolean isItSafePlaceForTheQueen(int chess[][],int row,int col){
-            for(int i=row-1,j=col;i>=0;i--){
-                if(chess[i][j]==1){
-                    return false;
-                }
-            }
-            for(int i=row-1,j=col-1;i>=0&&j>=0;i--,j--){
-                if(chess[i][j]==1){
-                    return false;
-                }
-            }
-            for(int i=row-1,j=col+1;i>=0&&j<chess.length;i--,j++){
-                if(chess[i][j]==1){
-                    return false;
-                }
-            }
-            return true;
-        }
+     }
