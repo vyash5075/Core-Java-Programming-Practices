@@ -44,6 +44,7 @@ If you like my content, please leave me a star. ❤️;
 |25 |[Flood Fill](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/floodfill.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/floodfill.java) |Pepcoding|Hard|Lv.3|Recursion,Array,Graph, BFS
 |26 |[Target Sum Subsets](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/targetsumsubsets.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/targetsumsubsets.java) |Pepcoding|Medium|Lv.2|Recursion,Array 
 |27 |[Print N Queens](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printNQueens.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printNQueens.java) |Pepcoding|Hard|Lv.3|Recursion,Array 
+|28 |[KNights Tour](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printKnightsTour.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printKnightsTour.java) |Pepcoding|Hard|Lv.3|Recursion,Array 
 
 
 
