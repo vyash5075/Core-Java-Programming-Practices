@@ -1,10 +1,10 @@
 # [Programming Practices](https://leetcode.com/problemset/algorithms/) [![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](LICENSE.md) [![Build Status](https://travis-ci.org/fishercoder1534/Leetcode.svg?branch=master)](https://travis-ci.org/fishercoder1534/Leetcode) ![Language](https://img.shields.io/badge/language-Java%20%2F%20Data_Structures%2F-blue.svg) 
 
 If you like my content, please leave me a star. ❤️;
-
 ```diff
-- yash
+- Yash Verma
 ```
+
 <!-- ## Algorithms
 
 |  #  |      Title     |   Solutions   | Video  | Difficulty  |Level| Tag1           
@@ -45,8 +45,9 @@ If you like my content, please leave me a star. ❤️;
 |26 |[Target Sum Subsets](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/targetsumsubsets.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/targetsumsubsets.java) |Pepcoding|Medium|Lv.2|Recursion,Array 
 |27 |[Print N Queens](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printNQueens.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printNQueens.java) |Pepcoding|Hard|Lv.3|Recursion,Array 
 |28 |[KNights Tour](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printKnightsTour.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printKnightsTour.java) |Pepcoding|Hard|Lv.3|Recursion,Array 
-
-
+|29 |[Print Combinations](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/print%20combinations.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/print%20combinations.java) |Pepcoding|Medium|Lv.2|Recursion 
+|30 |[Coin Change](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/coinchangeproblem.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/coinchangeproblem.java) |Pepcoding|Medium|Lv.2|Recursion,Array
+|31 |[Coin Change2](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/coinchange2.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/coinchange2.java) |Pepcoding|Medium|Lv.2|Recursion,Array
 
 
 ## Miscellaneous
