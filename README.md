@@ -48,6 +48,7 @@ If you like my content, please leave me a star. ❤️;
 |29 |[Print Combinations](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/print%20combinations.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/print%20combinations.java) |Pepcoding|Medium|Lv.2|Recursion 
 |30 |[Coin Change](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/coinchangeproblem.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/coinchangeproblem.java) |Pepcoding|Medium|Lv.2|Recursion,Array
 |31 |[Coin Change2](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/coinchange2.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/coinchange2.java) |Pepcoding|Medium|Lv.2|Recursion,Array
+|32 |[Coin Change permutation](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/coinchange%20permutations.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/coinchange%20permutations.java) |Pepcoding|Medium|Lv.2|Recursion,Array
 
 
 ## Miscellaneous
