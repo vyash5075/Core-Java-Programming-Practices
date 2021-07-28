@@ -49,6 +49,9 @@ If you like my content, please leave me a star. ❤️;
 |30 |[Coin Change](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/coinchangeproblem.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/coinchangeproblem.java) |Pepcoding|Medium|Lv.2|Recursion,Array
 |31 |[Coin Change2](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/coinchange2.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/coinchange2.java) |Pepcoding|Medium|Lv.2|Recursion,Array
 |32 |[Coin Change permutation](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/coinchange%20permutations.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/coinchange%20permutations.java) |Pepcoding|Medium|Lv.2|Recursion,Array
+|33 |[Lexicographical order printing](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/lexicographicalorder.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/lexicographicalorder.java) |Pepcoding|Medium|Lv.2|Recursion,Math
+|34 |[Sudoku Solver](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/sudokusolver.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/sudokusolver.java) |Pepcoding|Medium|Lv.2|Recursion,2D Array
+
 
 
 ## Miscellaneous
