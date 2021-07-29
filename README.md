@@ -51,7 +51,7 @@ If you like my content, please leave me a star. ❤️;
 |32 |[Coin Change permutation](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/coinchange%20permutations.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/coinchange%20permutations.java) |Pepcoding|Medium|Lv.2|Recursion,Array
 |33 |[Lexicographical order printing](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/lexicographicalorder.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/lexicographicalorder.java) |Pepcoding|Medium|Lv.2|Recursion,Math
 |34 |[Sudoku Solver](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/sudokusolver.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/sudokusolver.java) |Pepcoding|Medium|Lv.2|Recursion,2D Array
-
+|35 |[Number Sprint](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/number%20sprint.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/number%20sprint.java) |Pepcoding|Easy|Lv.1|Recursion
 
 
 ## Miscellaneous
