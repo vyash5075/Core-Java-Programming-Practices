@@ -54,6 +54,12 @@ If you like my content, please leave me a star. ❤️;
 |35 |[Number Sprint](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/number%20sprint.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/number%20sprint.java) |Pepcoding|Easy|Lv.1|Recursion
 
 
+## Dynamic Programming
+|  #  |      Problem     |   Solutions   | Source  | Difficulty  |Level |  Tags         
+|-----|----------------|---------------|--------|-------------|-|------------
+|1    |[nth Fibonacci](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/dp/nth%20fibonacci.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/dp/nth%20fibonacci.java) |Practice|Easy|Lv.1|Math
+
+
 ## Miscellaneous
 |  #  |      Problem     |   Solutions   | Source  | Difficulty  |Level |  Tags         
 |-----|----------------|---------------|--------|-------------|-|------------
