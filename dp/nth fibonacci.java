@@ -1,3 +1,5 @@
+//top to bottom approach
+
 import java.util.*;
 public class abc{
    public static HashMap<Integer, Integer> hm = new HashMap<Integer, Integer>();
