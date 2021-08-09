@@ -62,5 +62,5 @@ If you like my content, please leave me a star. ❤️;
 
 ## Miscellaneous
 |  #  |      Problem     |   Solutions   | Source  | Difficulty  |Level |  Tags         
-|-----|----------------|---------------|--------|-------------|-|------------
+|-----|----------------|----------------|--------|-------------|-|------------
 |1    |[Numbair Number Generator](https://github.com/vyash5075/Data-Structure-Algorithms/blob/master/miscellaneous/Numbair%20generator.java)|[Solution](https://github.com/vyash5075/Data-Structure-Algorithms/blob/master/miscellaneous/Numbair%20generator.java) |Wipro|Medium|Lv.2|Math
