@@ -16,7 +16,7 @@ If you like my content, please leave me a star. ❤️;
 
 ## Recursions
 |  #  |      Problem     |   Solutions   | Source  | Difficulty  |Level |  Tags         
-|-----|----------------|---------------|--------|-------------|-|------------
+|-----|----------------|----------------|--------|-------------|-|------------
 |1    |[ Print in decreasing manner](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printDecreasingIncreasing.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printDecreasingIncreasing.java) |Pepcoding|Easy|Lv.1|Backtracking
 |2    |[Print in Increasing  manner](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printIncreasing.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printIncreasing.java) |Pepcoding|Easy|Lv.1|Backtracking
 |3    |[Print in Decreasing  Increasing  manner](https://github.com/vyash5075/Core-Java-Programming-Practices/edit/master/recursion/printDecreasingIncreasing.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/edit/master/recursion/printDecreasingIncreasing.java) |Pepcoding|Easy|Lv.1|Backtracking
