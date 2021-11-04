@@ -5,7 +5,7 @@ If you like my content,, Please, leave me a star.. ❤️;
 - Yash Verma
 ```
 
-<!--  ## Algorithms
+<!-- . ## Algorithms
 
 |  #  |      Title     |   Solutions   | Video  | Difficulty  |Level| Tag1           
 |-----|--------------------|------------------|--------|-------------|---|-------------
