@@ -14,7 +14,7 @@ If you like my content,...... Please, leave me a star.You can contribute as well
 |1925|[Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_1925.java) ||Easy|Array, Greedy||
 |1897|[Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_1897.java) ||Easy|String,Greedy| -->
 
-## Recursions
+## Recursions q
 |  #  |      Problem     |   Solutions   | Source  | Difficulty  |Level |  Tags         
 |-----|------------------|------------------|--------|-------------|-|------------
 |1    |[ Print in decreasing manner](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printDecreasingIncreasing.java)|[Solution](https://github.com/vyash5075/Core-Java-Programming-Practices/blob/master/recursion/printDecreasingIncreasing.java) |Pepcoding|Easy|Lv.1|Backtracking
