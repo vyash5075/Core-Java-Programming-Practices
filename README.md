@@ -63,4 +63,4 @@ If you like my content,...... Please, leave me a star.You can contribute as well
 ## Miscellaneous
 |  #  |      Problem     |   Solutions   | Source  | Difficulty  |Level |  Tags         
 |-----|----------------|----------------|--------|-------------|-|------------
-|1    |[Numbair Number Generator](https://github.com/vyash5075/Data-Structure-Algorithms/blob/master/miscellaneous/Numbair%20generator.java)|[Solution](https://github.com/vyash5075/Data-Structure-Algorithms/blob/master/miscellaneous/Numbair%20generator.java) |Wipro|Medium|Lv.2|Math
+|1    |[Numbair Number Generator](https://github.com/vyash5075/Data-Structure-Algorithms/blob/master/miscellaneous/Numbair%20generator.java)|[Solution](https://github.com/vyash5075/Data-Structure-Algorithms/blob/master/miscellaneous/Numbair%20generator.java) |Wipro|Medium|Lv.2|Math. 
