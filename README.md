@@ -2,7 +2,7 @@
 
 If you like my content,....... Please, leave me a star.You can contribute as well.❤️
 ```diffb
-- Yash Verma.
+- Yash Verma..
 ```
 
 <!--. . ## Algorithms
